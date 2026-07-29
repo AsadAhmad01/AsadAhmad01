@@ -2,24 +2,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:818cf8,100:6366f1&height=220&section=header&text=Asad%20Ahmad&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Senior%20Mobile%20Engineer%20🚀%20Android%20·%20Flutter%20·%20Kotlin&descAlignY=62&descSize=17" width="100%"/>
 
-</div>
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=🏆+Multi-Award-Winning+Mobile+Engineer;⚡+WebRTC+%7C+Flutter+%7C+Android+SDK+%7C+Kotlin;🤖+Building+AI-Powered+Mobile+Platforms;🎯+Clean+Architecture+%7C+MVVM+%7C+Jetpack+Compose;🔥+Shipping+Code+That+Actually+Matters)](https://github.com/AsadAhmad01)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asad-abdullah-197a52186/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/asad._.ahmad)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haalim376@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://asad-abdullah-dev-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asad-abdullah-197a52186/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/asad._.ahmad) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haalim376@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://asad-abdullah-dev-portfolio.vercel.app)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AsadAhmad01&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
+
 
 ---
 
